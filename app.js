@@ -27,7 +27,7 @@ function exibirTextoNaTela(tag, texto) {
 
 function mensagemInicial() {
     exibirTextoNaTela('h1', 'Jogo do número secreto');
-    exibirTextoNaTela('p', 'Escolha um número de 1 a 10');
+    exibirTextoNaTela('p', 'Escolha um número de 1 a 10 teste');
 }
 
 function limparCampo() {
