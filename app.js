@@ -3,7 +3,7 @@ let numeroLimite = 3;
 let numeroEscolhido;
 let numeroSecreto = gerarNumeroSecreto();
 let chute;
-let tentativas = 2;
+let tentativas = 1;
 
 function gerarNumeroSecreto() {
     let numeroEscolhido = parseInt(Math.random() * numeroLimite + 1);
